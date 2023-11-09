@@ -1,0 +1,22 @@
+.app{
+  display: flex;
+  align-items: center;
+  height: 100%;
+position: absolute;
+left: 0;
+width: 100%;
+  background-color: rgb(16, 103, 138);
+}
+
+.game{
+  width: 560px;
+  height: 560px;
+  display: flex;
+  flex-wrap: wrap;
+  margin-left: 30px;
+}
+
+.game img{
+  width: 70px;
+  height: 70px;
+}
